@@ -89,7 +89,7 @@ npm run dev
 
 ---
 
-##  Why Hire Us?
+##  Why Use Us?
 - **Engineering Excellence:** Clean, modular codebase with best practices in React, Node.js, and modern web development.
 - **AI & Data Science Leadership:** Deep expertise in NLP, machine learning, and real-time analytics.
 - **Business-Driven Mindset:** Every feature is designed for measurable impact on customer satisfaction and operational efficiency.
