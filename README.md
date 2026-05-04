@@ -32,7 +32,7 @@ Sentiment Watchdog is an enterprise-grade, AI-powered platform that delivers rea
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend:** React, Vite, Tailwind CSS, Recharts, React Wordcloud
 - **Backend:** Node.js, Express, Hugging Face Inference API, WebSocket
 
@@ -89,7 +89,7 @@ npm run dev
 
 ---
 
-##  Why Use Us?
+##  Why Use This?
 - **Engineering Excellence:** Clean, modular codebase with best practices in React, Node.js, and modern web development.
 - **AI & Data Science Leadership:** Deep expertise in NLP, machine learning, and real-time analytics.
 - **Business-Driven Mindset:** Every feature is designed for measurable impact on customer satisfaction and operational efficiency.
